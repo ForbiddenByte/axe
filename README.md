@@ -13,7 +13,4 @@ A lot but it's functional enough..
 
 Working on making it into an Android App. The Desktop version is more or less ready I'll try to finish the Android App this week if not I'll just post the desktop version.
 
-
-### DEMO
-
-Uses a 2D self-learning agent / neural network for control in a 3D enviroment.
+[![Video](https://img.youtube.com/vi/J-1nepHIUiU/0.jpg)](https://www.youtube.com/J-1nepHIUiU)
