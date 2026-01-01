@@ -13,4 +13,4 @@ A lot but it's functional enough..
 
 Working on making it into an Android App. The Desktop version is more or less ready I'll try to finish the Android App this week if not I'll just post the desktop version.
 
-[![Video](https://img.youtube.com/vi/J-1nepHIUiU/0.jpg)](https://www.youtube.com/J-1nepHIUiU)
+[![Video](https://img.youtube.com/vi/yWI-iSLqa-o/0.jpg)](https://www.youtube.com/yWI-iSLqa-o)
