@@ -19,6 +19,8 @@ A lot but it's functional enough..
 
 ### Android App - iOS App possible 
 
+[![Video](https://img.youtube.com/vi/8toWW4z3klc/0.jpg)](https://www.youtube.com/shorts/8toWW4z3klc)
+
 ( WebApp as well could be run on a University to give everyone access although I'm having a hard time compiling the ML frameworks to .wasm so unless alot of additional work is done, it would be limited to manually defining things in the GUI )
 
 
