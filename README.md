@@ -18,6 +18,9 @@ Kinda like a game engine but instead of defining games you define electrical & m
 
 A lot but it's functional enough..
 
+
+[![Video](https://img.youtube.com/vi/Je39wiVMEYg/0.jpg)](https://www.youtube.com/shorts/Je39wiVMEYg)
+
 [![Video](https://img.youtube.com/vi/yWI-iSLqa-o/0.jpg)](https://www.youtube.com/shorts/yWI-iSLqa-o)
 
 ### Android App - iOS App possible 
