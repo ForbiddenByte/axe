@@ -25,8 +25,9 @@ A lot but it's functional enough..
 
 ### Android App - iOS App possible 
 
-[![Video](https://img.youtube.com/vi/8toWW4z3klc/0.jpg)](https://www.youtube.com/shorts/8toWW4z3klc)
+[![Video](https://img.youtube.com/vi/72JILVU8FqI/0.jpg)](https://www.youtube.com/shorts/72JILVU8FqI)
 
+[![Video](https://img.youtube.com/vi/8toWW4z3klc/0.jpg)](https://www.youtube.com/shorts/8toWW4z3klc)
 
 [![Video](https://img.youtube.com/vi/r_HmZEm0lp4/0.jpg)](https://www.youtube.com/shorts/r_HmZEm0lp4)
 
