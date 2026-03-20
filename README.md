@@ -6,6 +6,8 @@
 
 A Way To Connect Neural Networks With Other Systems & Define Automations With A Graphical User Interface.
 
+[![Video](https://img.youtube.com/vi/_2ONqc7W7X4/0.jpg)](https://www.youtube.com/shorts/_2ONqc7W7X4)
+
 ### About
 
 Define enviroments with .xml files & entire simulations either manually with the GUI ( Graphical User Interface ) or by assigning A.I. systems to objects. 
